@@ -1,6 +1,6 @@
 # CodeGig
 
-> Simple Job find app for coders. This app uses Node, Express, Sequalize (Postgres) and Handlebars.
+> Simple Crud Operation for user and posts. This app uses Node, Express, Sequalize (Postgres)
 
 ## Quick Start
 
@@ -18,8 +18,7 @@ npm run dev
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Dev Ashish Vats
 
 ### Version
 
